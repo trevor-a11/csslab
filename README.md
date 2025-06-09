@@ -1,2 +1,0 @@
-# csslab
-CSS practice 
